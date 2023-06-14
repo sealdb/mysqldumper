@@ -1,0 +1,30 @@
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/sealdb/mysqlstack v1.0.0
+## explicit; go 1.19
+github.com/sealdb/mysqlstack/driver
+github.com/sealdb/mysqlstack/packet
+github.com/sealdb/mysqlstack/proto
+github.com/sealdb/mysqlstack/sqldb
+github.com/sealdb/mysqlstack/sqlparser/depends/common
+github.com/sealdb/mysqlstack/sqlparser/depends/query
+github.com/sealdb/mysqlstack/sqlparser/depends/sqltypes
+github.com/sealdb/mysqlstack/xlog
+# github.com/shopspring/decimal v1.3.1
+## explicit; go 1.13
+github.com/shopspring/decimal
+# github.com/smartystreets/goconvey v1.8.0
+## explicit; go 1.18
+# github.com/stretchr/testify v1.8.4
+## explicit; go 1.20
+github.com/stretchr/testify/assert
+# gopkg.in/ini.v1 v1.62.0
+## explicit
+gopkg.in/ini.v1
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3
