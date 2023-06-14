@@ -1,7 +1,8 @@
 /*
- * Radon
+ * NeoDB
  *
  * Copyright 2019 The Radon Authors.
+ * Copyright 2023-2030 The NeoDB Authors.
  * Code is licensed under the GPLv3.
  *
  */

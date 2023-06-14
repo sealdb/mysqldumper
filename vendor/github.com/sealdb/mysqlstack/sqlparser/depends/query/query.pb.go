@@ -6,7 +6,6 @@
 Package query is a generated protocol buffer package.
 
 It is generated from these files:
-
 	query.proto
 */
 package query
