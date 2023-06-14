@@ -1,4 +1,4 @@
-name: mydumper Coverage
+name: mysqldumper Coverage
 on: [push, pull_request]
 jobs:
 
@@ -20,4 +20,4 @@ jobs:
       run: |
         export PATH=$PATH:$(go env GOPATH)/bin
         make coverage
-        bash <(curl -s https://codecov.io/bash) -f "!mock.go" -t 27d0f712-a1c6-42b3-92a5-ad7c9117ed1a
+        bash <(curl -s https://codecov.io/bash) -f "!mock.go" -t 0f6e1ff6-4644-4bc8-98d5-3e269454be61

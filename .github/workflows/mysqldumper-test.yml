@@ -1,4 +1,4 @@
-name:  mydumper Test
+name:  mysqldumper Test
 on: [push, pull_request]
 jobs:
 

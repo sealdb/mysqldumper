@@ -1,4 +1,4 @@
-name: mydumper Build
+name: mysqldumper Build
 on: [push, pull_request]
 jobs:
 

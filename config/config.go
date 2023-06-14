@@ -1,8 +1,8 @@
 /*
  * mysqldumper
- * xelabs.org
  *
  * Copyright (c) XeLabs
+ * Copyright (c) 2023-2030 NeoDB Author
  * GPL License
  *
  */

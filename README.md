@@ -1,6 +1,6 @@
-[![Github Actions Status](https://github.com/sealdb/mysqldumper/workflows/mydumper%20Build/badge.svg?event=push)](https://github.com/sealdb/mysqldumper/actions?query=workflow%3A%22mydumper+Build%22+event%3Apush)
-[![Github Actions Status](https://github.com/sealdb/mysqldumper/workflows/mydumper%20Test/badge.svg?event=push)](https://github.com/sealdb/mysqldumper/actions?query=workflow%3A%22mydumper+Test%22+event%3Apush)
-[![Github Actions Status](https://github.com/sealdb/mysqldumper/workflows/mydumper%20Coverage/badge.svg?event=push)](https://github.com/sealdb/mysqldumper/actions?query=workflow%3A%22mydumper+Coverage%22+event%3Apush)
+[![Github Actions Status](https://github.com/sealdb/mysqldumper/workflows/mysqldumper%20Build/badge.svg?event=push)](https://github.com/sealdb/mysqldumper/actions?query=workflow%3A%mysqldumper+Build%22+event%3Apush)
+[![Github Actions Status](https://github.com/sealdb/mysqldumper/workflows/mysqldumper%20Test/badge.svg?event=push)](https://github.com/sealdb/mysqldumper/actions?query=workflow%3A%mysqldumper+Test%22+event%3Apush)
+[![Github Actions Status](https://github.com/sealdb/mysqldumper/workflows/mysqldumper%20Coverage/badge.svg?event=push)](https://github.com/sealdb/mysqldumper/actions?query=workflow%3A%mysqldumper+Coverage%22+event%3Apush)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sealdb/mysqldumper)](https://goreportcard.com/report/github.com/sealdb/mysqldumper) [![codecov.io](https://codecov.io/gh/sealdb/mysqldumper/graphs/badge.svg)](https://codecov.io/gh/sealdb/mysqldumper/branch/master)
 
 # mysqldumper
